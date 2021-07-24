@@ -7,10 +7,9 @@
 
 Graduating in in _Information Technology_ from [Federal University of Rio Grande do Norte](https://ufrn.br/) 🏛.
 
-Information technology student
-interest in web development using new technologies like reactJs, node and php , using tools like docker and heroku.
-cloud computing enthusiast, multi cloud, BI tools
-May the shell god help them :)
+I'm passionate about technology 💘 I like to program 👽 in JS, PHP and Shell using also tools like docker and heroku :)
+
+I'm a cloud computing, virtualization and BI enthusiast
 
 ### Connect with me...
 
@@ -26,8 +25,7 @@ May the shell god help them :)
 
 <br />
 
-### More about me...
+# More about me...
 
-- 💻 I have worked with AWS, Docker and Ansible.
-- ⚡ Fun fact: I make Shell Scripts to do boring tasks 🤣...
-
+- 💻 I work with Debian and I love the free software ecosystem
+- ⚡ Curiosity: I make Shell Scripts to do boring tasks 🤣 ...
