@@ -1,31 +1,25 @@
-![](https://visitor-badge.glitch.me/badge?page_id=felipesergios.felipesergios)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=felipesergios&show_icons=true&hide_border=true)
+  <h3 align="center"> Hi guys 👋</h3> 
+  <p align="center">
+ I like to program 👽 in <strong>Shell</strong>  , PHP and JS  using also tools like docker and kubernetes :)
+ </p>
+ <p align="center">Cloud computing and virtualization enthusiast !</p>
+  <p align="center"><strong><a href="https://www.debian.org/">👾Debian👾</a></strong></p>
 
-### Hi guys 👋
+<div align="center">
+  <img width="10%" height="75px" src="https://bits.debian.org/theme/images/openlogo-nd-75.png" /> 
+</div>
 
 
-Graduating in in _Information Technology_ from [Federal University of Rio Grande do Norte](https://ufrn.br/) 🏛.
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipesergios&show_icons=true&count_private=true&hide_border=true&title_color=8968fb&icon_color=F1D559&text_color=FFFFFF&bg_color=0d1117" alt="DGS1337 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipesergios&layout=compact&hide_border=true&title_color=8968fb&text_color=FFFFFF&bg_color=0d1117" />
+</div>
 
-I'm passionate about technology 💘 I like to program 👽 in JS, PHP and Shell using also tools like docker and heroku :)
-
-I'm a cloud computing, virtualization and BI enthusiast
-
-### Connect with me...
-
-<a href="https://www.linkedin.com/in/felipesergios/">
-  <img align="left" alt="Felipe  Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/felipesergios">
-  <img align="left" alt="Felipe Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/FelipeSergio">
-  <img align="left" alt="Felipe Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-<br />
-
-# More about me...
-
-- 💻 I work with Debian and I love the free software ecosystem
-- ⚡ Curiosity: I make Shell Scripts to do boring tasks 🤣 ...
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,bash,kubernetes,react,laravel,php,azure" />
+  </a>
+</p>
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8968fb&height=120&section=footer"/>
