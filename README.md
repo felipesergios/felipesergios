@@ -6,9 +6,7 @@
  <p align="center">Cloud computing and virtualization enthusiast !</p>
   <p align="center"><strong><a href="https://www.debian.org/">👾Debian👾</a></strong></p>
 
-<div align="center">
-  <img width="10%" height="75px" src="https://bits.debian.org/theme/images/openlogo-nd-75.png" /> 
-</div>
+
 
 
 <div align="center">  
